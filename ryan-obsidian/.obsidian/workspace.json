@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2e2c7239761be4d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hihi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test file.md",
+                "file": "hihi.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test file.md",
+                "file": "hihi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test file.md"
+                "file": "hihi.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "ce504ef07aab3db5",
+  "active": "2e2c7239761be4d1",
   "lastOpenFiles": [
-    "Test file.md"
+    "Test file.md",
+    "hihi.md"
   ]
 }
