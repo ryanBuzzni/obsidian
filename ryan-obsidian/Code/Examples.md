@@ -1,7 +1,6 @@
-```javascript
 
 [액션 중심으로 이름 짓기(함수를 구분짓게 되는 필요성 확인이 됨)]
-
+```javascript
 Bad
 function userData() {}
 const data = userData()
@@ -10,10 +9,10 @@ Good
 function loadUserData() {
 const userData = loadUserData()
 }
+```
 
---
 [짧은 변수명이나 (아무도 이해못하는)축약어 쓰는 것을 피하기]
-
+```javascript
 Bad
 allUser.forEach((u) => {
 	sendEmail(u);
@@ -45,11 +44,10 @@ function createOrder(order) {
 	
 	...
 }
+```
 
---
-
-[Arrowhead anti pattern, Ealry return이나 early exit하기]
-
+[Arrowhead anti pattern, ealry return이나 early exit하기]
+```javascript
 Bad
 function doSomething (number) {
 	if (typeof number !== 'number') {
@@ -89,11 +87,10 @@ function doSomething (number) {
 	// something
 	
 }
-
---
+```
 
 [잘못된 Error/Exception]
-
+```javascript
 // 유저가 탈퇴시에 유저의 관련파일 삭제 함수
 function removeUser(user) {
 	try {
@@ -104,7 +101,4 @@ function removeUser(user) {
 
 	deactivateUser(user)
 }
-
-
-
 ```

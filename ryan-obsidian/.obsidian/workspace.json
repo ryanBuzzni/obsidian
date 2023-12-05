@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "Code/Examples.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -185,7 +185,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c51122acef77fcd",
+  "active": "b3c80acda5084547",
   "lastOpenFiles": [
     "Untitled.md",
     "무제 파일.md",
