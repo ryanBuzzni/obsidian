@@ -11,28 +11,44 @@
             "id": "ce504ef07aab3db5",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "64bc45c1984d7b06",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2225fe8b1a2e50c1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Test file.md",
+                "file": "Code/Examples.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2e2c7239761be4d1",
+            "id": "7c51122acef77fcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hihi.md",
+                "file": "Code/Examples.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hihi.md",
+                "file": "Code/Examples.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hihi.md",
+                "file": "Code/Examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +154,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hihi.md"
+                "file": "Code/Examples.md"
               }
+            }
+          },
+          {
+            "id": "b3c80acda5084547",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,12 +180,25 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e2c7239761be4d1",
+  "active": "7c51122acef77fcd",
   "lastOpenFiles": [
-    "Test file.md",
-    "hihi.md"
+    "Untitled.md",
+    "무제 파일.md",
+    "Code/Examples.md",
+    "무제 파일.canvas",
+    "무제 파일 1.md",
+    "무제 파일 2.md",
+    "무제 파일 3.md",
+    "무제 파일 4.md",
+    "무제 파일 5.md",
+    "Code",
+    "2023-12-05.md",
+    "hihi.md",
+    "Test file.md"
   ]
 }
