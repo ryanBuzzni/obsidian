@@ -103,6 +103,19 @@ function removeUser(user) {
 }
 ```
 
+**타입에 의한 if 문을 객체로 변형해서 사용**
+
+**boolean형 변수 이름 nagative로 짓지 않기**
+```js
+BAD
+const unPressable = true
+const isAllUnableDeliver = true
+
+GOOD
+const pressable = false
+const isAllDeliver = false
+```
+
 **Single Responsibility principle**
 _단일책임원칙_ single function -> multi x
 **함수**는 오직 하나의 책임을 가져야 한다. (**함수**는 오직 하나의 변경의 이유만을 가져야 한다.)  
@@ -238,8 +251,6 @@ class cafeOwner {
   }
 }
 ```
-
-**타입에 의한 if 문을 객체로 변형해서 사용**
 
 **useImperativeHandle 공유**
 
