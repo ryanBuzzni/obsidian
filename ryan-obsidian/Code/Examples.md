@@ -91,7 +91,7 @@ function doSomething (number) {
 
 [잘못된 Error/Exception]
 ```javascript
-// 유저가 탈퇴시에 유저의 관련파일 삭제 함수
+// 유저가 탈퇴시에 유저의 관련파일 삭제 함수, 유저를 비활성화가 실패하더라도 유저파일이 삭제됨...
 function removeUser(user) {
 	try {
 		removeUserFiles(user)
@@ -102,3 +102,5 @@ function removeUser(user) {
 	deactivateUser(user)
 }
 ```
+
+[타입에 의한 if 문은 객체로 변형해서 사용]
