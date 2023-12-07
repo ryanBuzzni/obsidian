@@ -91,7 +91,7 @@ function doSomething (number) {
 
 **잘못된 Error/Exception**
 ```javascript
-// 유저가 탈퇴시에 유저의 관련파일 삭제 함수, 유저를 비활성화가 실패하더라도 유저파일이 삭제됨...
+// 유저가 탈퇴시에 유저의 관련파일 삭제 함수, 문제점은?
 function removeUser(user) {
 	try {
 		removeUserFiles(user)
@@ -107,6 +107,50 @@ function removeUser(user) {
 _단일책임원칙_ single function -> multi x
 **함수**는 오직 하나의 책임을 가져야 한다. (**함수**는 오직 하나의 변경의 이유만을 가져야 한다.)  
 같은 이유로 변경될 코드들은 모으고. 다른 이유로 변경될 코드들은 흩어라.
+```js
+BAD
+class cafeOwner {
+  constructor(coffeebeans) {
+    this.coffeebeans = coffeebeans;
+  }
+  
+  manageShop(time){
+  	console.log(`managing coffee shop at ${time}`)
+  }
+
+  makeCoffee(coffeebeans) {
+    console.log(`making cofffe with ${coffeebeans}`)
+  }
+
+  serveCoffee(guest) {
+    console.log(`serving coffee to ${guest}`)
+  }
+}
+
+GOOD
+class coffemaker {
+  makeCoffee(coffeebeans) {
+    console.log(`making cofffe with ${coffeebeans}`)
+  }
+}
+
+class coffeeServer{
+  serveCoffee(guest) {
+    console.log(`serving coffee to ${guest}`)
+  }
+}
+
+class cafeOwner {
+  coffee;
+  constructor(coffeebeans) {
+    this.coffeebeans = coffeebeans;
+  }
+
+  manageShop(time){
+  	console.log(`managing coffee shop at ${time}`)
+  }
+}
+```
 
 **Open-Closed principle**
 _개방폐쇄원칙_ function params 
