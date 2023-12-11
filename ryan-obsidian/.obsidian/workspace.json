@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Examples.md",
+                "file": "Code/코드에 대한 고찰.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,14 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code/Examples.md",
+                "file": "Code/코드에 대한 고찰.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7806b6af6222fd80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code/코드에 대한 고찰.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/Examples.md",
+                "file": "Code/코드에 대한 고찰.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/Examples.md",
+                "file": "Code/코드에 대한 고찰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/Examples.md"
+                "file": "Code/코드에 대한 고찰.md"
               }
             }
           },
@@ -185,11 +197,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c51122acef77fcd",
+  "active": "7806b6af6222fd80",
   "lastOpenFiles": [
+    "Code/KISS, DRY, YAGNI.md",
+    "Code/코드에 대한 고찰.md",
+    "Code/현재 홈쇼핑모아 코드에 대한 고찰2.md",
     "Untitled.md",
-    "무제 파일.md",
-    "Code/Examples.md",
     "무제 파일.canvas",
     "무제 파일 1.md",
     "무제 파일 2.md",
