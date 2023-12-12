@@ -51,11 +51,10 @@
             "id": "7806b6af6222fd80",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Code/코드에 대한 고찰.md",
-                "mode": "source",
-                "source": false
+                "file": "ryan-obsidian/.obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -163,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "무제 파일.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,7 +192,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f53f734934f29119",
+  "active": "7806b6af6222fd80",
   "lastOpenFiles": [
     "Code/코드에 대한 고찰.md",
     "무제 파일.md",
