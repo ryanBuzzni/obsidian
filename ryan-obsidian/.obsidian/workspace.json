@@ -126,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Code/코드에 대한 고찰.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Code/코드에 대한 고찰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code/코드에 대한 고찰.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -197,10 +195,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7806b6af6222fd80",
+  "active": "f53f734934f29119",
   "lastOpenFiles": [
-    "Code/KISS, DRY, YAGNI.md",
     "Code/코드에 대한 고찰.md",
+    "무제 파일.md",
+    "Code/KISS, DRY, YAGNI.md",
     "Code/현재 홈쇼핑모아 코드에 대한 고찰2.md",
     "Untitled.md",
     "무제 파일.canvas",
