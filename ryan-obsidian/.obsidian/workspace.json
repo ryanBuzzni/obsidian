@@ -51,15 +51,22 @@
             "id": "7806b6af6222fd80",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "57b71a8f259e3749",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
               "state": {
-                "file": "ryan-obsidian/.obsidian/workspace.json",
-                "staged": false
+                "file": "AiPhoto/이벤트 논의.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -125,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AiPhoto/이벤트 논의.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AiPhoto/이벤트 논의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AiPhoto/이벤트 논의.md"
+              }
             }
           },
           {
@@ -192,11 +203,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7806b6af6222fd80",
+  "active": "f53f734934f29119",
   "lastOpenFiles": [
+    "AiPhoto/이벤트 논의.md",
+    "Code/KISS, DRY, YAGNI.md",
+    "AiPhoto/scrum.canvas",
+    "AiPhoto/Drawing 2024-02-13 16.23.37.excalidraw.md",
+    "AiPhoto",
     "Code/코드에 대한 고찰.md",
     "무제 파일.md",
-    "Code/KISS, DRY, YAGNI.md",
     "Code/현재 홈쇼핑모아 코드에 대한 고찰2.md",
     "Untitled.md",
     "무제 파일.canvas",
