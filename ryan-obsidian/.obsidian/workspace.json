@@ -86,9 +86,11 @@
             "id": "eb0dd0b5c2f0dcec",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-06 16.22.49.excalidraw.md"
+                "file": "Code/코드에 대한 고찰.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -167,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-06 16.22.49.excalidraw.md",
+                "file": "Code/코드에 대한 고찰.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-06 16.22.49.excalidraw.md",
+                "file": "Code/코드에 대한 고찰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-06 16.22.49.excalidraw.md"
+                "file": "Code/코드에 대한 고찰.md"
               }
             }
           },
@@ -240,13 +242,13 @@
   },
   "active": "eb0dd0b5c2f0dcec",
   "lastOpenFiles": [
-    "무제 파일.canvas",
+    "Code/KISS, DRY, YAGNI.md",
     "Excalidraw/Drawing 2024-09-06 16.22.49.excalidraw.md",
+    "무제 파일.canvas",
     "Excalidraw",
     "2024-08-12.md",
     "Excalidraw/Drawing 2024-08-12 10.25.21.excalidraw.md",
     "Code/코드에 대한 고찰.md",
-    "Code/KISS, DRY, YAGNI.md",
     "AiPhoto/이벤트 논의.md",
     "AiPhoto/scrum.canvas",
     "AiPhoto/Drawing 2024-02-13 16.23.37.excalidraw.md",
